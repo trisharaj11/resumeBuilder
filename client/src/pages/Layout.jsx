@@ -13,14 +13,10 @@ const Layout = () => {
   }
   return (
     <div>
-      {
-        user? (
-          <div className='min-h-screen bg-gray-50'>
-        <Navbar/>
-        <Outlet/>
-      </div>
-        ): <Login/>
-      }
+       <div className="min-h-screen bg-gray-50">
+      <Navbar/>
+      <Outlet/>
+    </div>
     </div>
   )
 }
