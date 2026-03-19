@@ -37,7 +37,7 @@ A full-stack AI-powered Resume Builder that allows users to create, customize, a
 
 ### AI Integration
 
-* OpenAI API (for enhancing job descriptions)
+* Gemini API (for enhancing job descriptions)
 
 ### Deployment
 
