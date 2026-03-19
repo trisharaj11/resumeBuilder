@@ -136,12 +136,12 @@ Make sure to set environment variables properly in both platforms.
 
 * User enters job description
 * Request sent to backend
-* OpenAI API enhances the content
+* AI enhances the content
 * Updated description is returned and displayed
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 <img width="1886" height="1026" alt="image" src="https://github.com/user-attachments/assets/8ba4ac7c-a6ba-438a-b273-9532b6238d57" />
 <img width="1893" height="1082" alt="image" src="https://github.com/user-attachments/assets/87b7bb0c-a9f4-47b1-9b3b-eab59166aa29" />
 <img width="1894" height="1038" alt="image" src="https://github.com/user-attachments/assets/839b8397-8687-4142-8fc4-1a34ecc0488e" />
